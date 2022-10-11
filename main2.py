@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-image_path = 'chair_3.jpg'
+image_path = 'chair_5.jpg'
 prototxt_path = 'models/Mobile NetSSD_deploy.prototxt'
 model_path = 'models/MobileNetSSD_deploy.caffemodel'
 min_confidence = 0.1
